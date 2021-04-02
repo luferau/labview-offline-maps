@@ -1,0 +1,137 @@
+[
+  {
+    "Warning": false,
+    "Caption": "Lisbon",
+    "Latitude_deg": 38.725142441417873,
+    "Longitude_deg": -9.1392609596253465,
+    "Altitude_m": 169.0,
+    "Speed_m_s": 60.0,
+    "Temperature_C": 29.1
+  },
+  {
+    "Warning": false,
+    "Caption": "Madrid",
+    "Latitude_deg": 40.423037071883869,
+    "Longitude_deg": -3.7032274597178345,
+    "Altitude_m": 274.0,
+    "Speed_m_s": 64.0,
+    "Temperature_C": 33.0
+  },
+  {
+    "Warning": false,
+    "Caption": "Paris",
+    "Latitude_deg": 48.907793706861064,
+    "Longitude_deg": 2.3597210910306421,
+    "Altitude_m": 143.0,
+    "Speed_m_s": 62.0,
+    "Temperature_C": 26.8
+  },
+  {
+    "Warning": false,
+    "Caption": "London",
+    "Latitude_deg": 51.516168368357356,
+    "Longitude_deg": -0.12838275490814741,
+    "Altitude_m": 109.0,
+    "Speed_m_s": 67.0,
+    "Temperature_C": 25.3
+  },
+  {
+    "Warning": false,
+    "Caption": "Edinburgh",
+    "Latitude_deg": 55.957528474657124,
+    "Longitude_deg": -3.1871437647887348,
+    "Altitude_m": 247.0,
+    "Speed_m_s": 69.0,
+    "Temperature_C": 33.1
+  },
+  {
+    "Warning": false,
+    "Caption": "Brussels",
+    "Latitude_deg": 50.908292170194336,
+    "Longitude_deg": 4.3564566124143287,
+    "Altitude_m": 233.0,
+    "Speed_m_s": 65.0,
+    "Temperature_C": 25.4
+  },
+  {
+    "Warning": false,
+    "Caption": "Amsterdam",
+    "Latitude_deg": 52.393291527775268,
+    "Longitude_deg": 4.8934336544260146,
+    "Altitude_m": 159.0,
+    "Speed_m_s": 68.0,
+    "Temperature_C": 31.8
+  },
+  {
+    "Warning": false,
+    "Caption": "Berlin",
+    "Latitude_deg": 52.845234795448285,
+    "Longitude_deg": 13.392050155813079,
+    "Altitude_m": 273.0,
+    "Speed_m_s": 64.0,
+    "Temperature_C": 25.3
+  },
+  {
+    "Warning": false,
+    "Caption": "Warsaw",
+    "Latitude_deg": 52.410441761640392,
+    "Longitude_deg": 20.986802430201571,
+    "Altitude_m": 193.0,
+    "Speed_m_s": 64.0,
+    "Temperature_C": 29.9
+  },
+  {
+    "Warning": false,
+    "Caption": "Minsk",
+    "Latitude_deg": 53.915353635842955,
+    "Longitude_deg": 27.5342805003709,
+    "Altitude_m": 282.0,
+    "Speed_m_s": 66.0,
+    "Temperature_C": 28.4
+  },
+  {
+    "Warning": false,
+    "Caption": "Moscow",
+    "Latitude_deg": 55.764361274639839,
+    "Longitude_deg": 37.621241037033457,
+    "Altitude_m": 191.0,
+    "Speed_m_s": 63.0,
+    "Temperature_C": 34.6
+  },
+  {
+    "Warning": false,
+    "Caption": "Nur-Sultan",
+    "Latitude_deg": 51.172686043407253,
+    "Longitude_deg": 71.474528476284277,
+    "Altitude_m": 282.0,
+    "Speed_m_s": 60.0,
+    "Temperature_C": 30.9
+  },
+  {
+    "Warning": false,
+    "Caption": "Beijing",
+    "Latitude_deg": 39.901652496272405,
+    "Longitude_deg": 116.40512194977679,
+    "Altitude_m": 213.0,
+    "Speed_m_s": 69.0,
+    "Temperature_C": 30.4
+  },
+  {
+    "Warning": false,
+    "Caption": "Pyongyang",
+    "Latitude_deg": 39.039487151759857,
+    "Longitude_deg": 125.76298708350578,
+    "Altitude_m": 287.0,
+    "Speed_m_s": 65.0,
+    "Temperature_C": 29.8
+  },
+  {
+    "Warning": false,
+    "Caption": "Tokyo",
+    "Latitude_deg": 36.21818074063161,
+    "Longitude_deg": 139.80052180572926,
+    "Altitude_m": 159.0,
+    "Speed_m_s": 68.0,
+    "Temperature_C": 33.6
+  }
+]

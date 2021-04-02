@@ -1,0 +1,8 @@
+﻿# this file contains the partial list of the merged assemblies in the merge order
+# you can fill it from the obj\CONFIG\PROJECT.ilmerge generated on every build
+# and finetune merge order to your satisfaction
+OfflineMaps.Controls.dll
+Telerik.WinControls.dll
+Telerik.WinControls.RadMap.dll
+Telerik.WinControls.UI.dll
+TelerikCommon.dll
