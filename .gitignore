@@ -3,7 +3,6 @@ maps/map/
 maps/sat/
 
 #1. Labview part
-
 #builds
 builds/
 
@@ -16,6 +15,9 @@ builds/
 *.so
 *.so.*
 *.dylib
+
+!labview/dll/OfflineMaps.Controls.dll
+!labview/dll/OfflineMaps.Core.dll
 
 # Executables
 *.exe
